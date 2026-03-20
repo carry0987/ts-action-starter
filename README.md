@@ -61,6 +61,9 @@ This template uses [Release Please](https://github.com/googleapis/release-please
 
 Push to `main` and Release Please will create a release PR automatically.
 
+> [!NOTE]
+> You may also need to set **"Allow GitHub Actions to create and approve pull requests"** under repository **Settings > Actions > General**.
+
 ## License
 
 [MIT](LICENSE)
