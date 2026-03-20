@@ -14,5 +14,5 @@ outputs:
     description: 'TODO: Describe this output'
 
 runs:
-  using: node20
+  using: node24
   main: dist/index.cjs
