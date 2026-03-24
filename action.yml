@@ -1,7 +1,7 @@
 name: My Action
 description: 'TODO: Describe what your action does'
 branding:
-  icon: 'book'
+  icon: 'box'
   color: 'blue'
 
 inputs:
