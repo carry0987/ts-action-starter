@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/carry0987/ts-action-starter/compare/v1.1.0...v1.2.0) (2026-03-24)
+
+
+### Features
+
+* Change icon ([59fa733](https://github.com/carry0987/ts-action-starter/commit/59fa733e79aedd81e2507b9291c0941eb4e07090))
+
 ## [1.1.0](https://github.com/carry0987/ts-action-starter/compare/v1.0.0...v1.1.0) (2026-03-20)
 
 
