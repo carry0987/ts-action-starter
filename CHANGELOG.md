@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/carry0987/ts-action-starter/compare/v1.2.0...v1.3.0) (2026-03-25)
+
+
+### Features
+
+* Update packages ([c41ea02](https://github.com/carry0987/ts-action-starter/commit/c41ea029e60128631a432acf1e690673d65534ee))
+
 ## [1.2.0](https://github.com/carry0987/ts-action-starter/compare/v1.1.0...v1.2.0) (2026-03-24)
 
 
