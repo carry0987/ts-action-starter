@@ -1,4 +1,5 @@
 import * as core from '@actions/core';
+import { greet } from './utils.js';
 
 function run(): void {
     try {
@@ -15,10 +16,6 @@ function run(): void {
             core.setFailed('An unexpected error occurred');
         }
     }
-}
-
-export function greet(name: string): string {
-    return `Hello, ${name}!`;
 }
 
 run();
