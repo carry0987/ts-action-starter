@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/carry0987/ts-action-starter/compare/v1.3.0...v1.4.0) (2026-03-28)
+
+
+### Features
+
+* Fix unit tests ([e962a4d](https://github.com/carry0987/ts-action-starter/commit/e962a4d5aa7bc2c477f1511d362b48e62af11afc))
+* Update tsconfig.json ([fa6f237](https://github.com/carry0987/ts-action-starter/commit/fa6f237bddf080963c19ca1f433be0b24da09956))
+
 ## [1.3.0](https://github.com/carry0987/ts-action-starter/compare/v1.2.0...v1.3.0) (2026-03-25)
 
 
